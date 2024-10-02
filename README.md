@@ -6,6 +6,10 @@ Uses TFT_eSPI library to control the display of the ESP32 microcontroller
 
 *Here's a video of the display in action: https://youtu.be/kM9eduoONM4*
 
+## Blog Post
+
+You can take an in depth look at my process making this program in this [blog post]([https://chambray-dragon-de5.notion.site/Inscribed-Concentric-Shapes-ICS-110c917d299b8009857dfc2a6bac76ce](https://brassy-moonflower-6cd.notion.site/Falling-Foliage-Fade-F3-11018fb9102d800894b0c82c0ea21e70)).
+
 ## What You'll Need
 
  + [Arduino IDE](https://www.arduino.cc/en/software)
