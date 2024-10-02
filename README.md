@@ -8,7 +8,7 @@ Uses TFT_eSPI library to control the display of the ESP32 microcontroller
 
 ## Blog Post
 
-You can take an in depth look at my process making this program in this blog [post](https://brassy-moonflower-6cd.notion.site/Falling-Foliage-Fade-F3-11018fb9102d800894b0c82c0ea21e70).
+You can take an in depth look at my process making this program in this blog [post](https://brassy-moonflower-6cd.notion.site/Falling-Foliage-Fade-F3-11018fb9102d800894b0c82c0ea21e70)
 
 ## Table of Contents
 
