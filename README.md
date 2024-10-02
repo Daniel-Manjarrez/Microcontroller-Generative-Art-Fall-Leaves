@@ -47,7 +47,8 @@ You can take an in depth look at my process making this program in this blog [po
 This image reference is the inspiration behind  the design of my generative fall art that depicts the leaves of a tree falling down and changing color as the days pass throughout the autumn season.
 
 - Fall Leaf Color Reference:
-![Leaf Colors](images/autumnLeaves.jpg)
+
+  ![Leaf Colors](images/autumnLeaves.jpg)
 
 This image represents the thought process behind creating the leaves that were displayed in my art.
 
