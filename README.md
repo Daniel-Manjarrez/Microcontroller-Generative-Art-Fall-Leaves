@@ -40,7 +40,7 @@ This image reference is the inspiration behind  the design of my generative fall
 This image represents the thought process behind creating the leaves that were displayed in my art.
 
 - Leaf Design Reference:
-![Leaf Design](images/DesignWork.png)
+  ![Leaf Design](images/DesignWork.png)
 
 ## Demos
 
