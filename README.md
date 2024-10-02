@@ -12,7 +12,7 @@ You can take an in depth look at my process making this program in this blog [po
 
 ## Table of Contents
 
-- [Materials](#what-you'll-need)
+- [Materials](#what-youll-need)
 - [Installation Process](#installation)
 - [Design Process](#design-process-and-goals)
 - [Demos](#demos)
